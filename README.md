@@ -1,5 +1,7 @@
+
+<h1 align="center"> Hi👋</h1>  
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sithika+Guruge;" alt="Hi 👋 I'm Sithika Guruge">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sithika+Guruge;" alt="I'm Sithika Guruge">
 </h1>
 <h3 align="center">A highly motivated 3rd year undergraduate at Department of Computer Science and Engineering, Faculty of Engineering, University of Moratuwa with a strong passion for learning and staying up-to-date with rapidly evolving technology. Currently taking an interest in full-stack development and mobile app development.</h3>
 
